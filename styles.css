@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(223, 255, 255);
+}
+h1 {
+    color: rgb(204, 47, 47);
+}
+h3 {
+    color: brown;
+}
+hr {
+    background-color: rgb(223, 255, 255);
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    width: 5%;
+    
+}
